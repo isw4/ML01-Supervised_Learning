@@ -33,6 +33,8 @@ graphs/     Contains graphs that are output by the various experiments
 The 'save' argument at the end of some calls is optional. With the 'save' argument, it will save
 the graphs to '../graphs/wine/' or '../graphs/pet/'.
 
+Change directory to the src directory
+
 -   Cleaning the raw data and outputting it to a csv file:
     ~~~
     python wine.py clean_and_output
