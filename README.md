@@ -3,8 +3,8 @@
 Code and data can be found at: https://github.com/isw4/ML01-Supervised_Learning
 
 ## Directories
-src/        Contains the source code
-data/       Contains the raw and cleaned csv data files, along with some description of each set
+src/        Contains the source code  
+data/       Contains the raw and cleaned csv data files, along with some description of each set  
 graphs/     Contains graphs that are output by the various experiments
 
 
